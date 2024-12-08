@@ -102,7 +102,7 @@
 
 保有個人データに関するお求めの受付、その他当社の個人情報の取扱いに関するお問い合わせは、下記の窓口までお願いいたします。  
 株式会社roca個人情報保護管理担当　【担当者氏名】  
-E-mail：[m.sato@roca.systems](mailto:m.sato@roca.systems)
+E-mail：[info@roca.systems](mailto:info@roca.systems)
 
 9. **本ポリシーの変更について**
 
